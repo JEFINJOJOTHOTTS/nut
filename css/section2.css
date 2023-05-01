@@ -1,0 +1,25 @@
+#section2 {
+    height: 750px;
+      padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#s2Right{
+    background-image:url(../images/section2.jpg) ;
+    
+}
+#s2H{
+    color: black;
+}
+#s2P{
+    color: black;
+}
+#s2CRBut{
+    color: black;
+    border-color: black;
+}
+#s2CRBut:hover{
+    color: white;
+    transition-duration: .5s;
+}

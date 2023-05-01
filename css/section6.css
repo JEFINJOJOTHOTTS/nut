@@ -1,0 +1,15 @@
+#section6 {
+
+    background-image: url(../images/sestion6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 500px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    text-align: center;
+}
+
+.s6HTop {
+    padding-top: 10px;
+}

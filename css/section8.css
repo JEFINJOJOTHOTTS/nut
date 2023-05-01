@@ -1,0 +1,128 @@
+@import url('https://fonts.cdnfonts.com/css/daniel');
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+
+#section8 {
+    text-align: center;
+}
+
+#s8Row1 {
+    text-align: center;
+    position: relative;
+    padding: 30px;
+}
+
+#s8Row2 {
+    background: #FAFAF8;
+    height: 10rem;
+    position: relative;
+}
+
+.s8PaperDiv {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.s8Paper {
+    width: 100px;
+}
+
+.fa {
+    padding: 18px;
+    font-size: 30px;
+    width: 10px;
+    text-align: center;
+    text-decoration: none;
+    color: rgba(0, 0, 0, .81);
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+#s8R2L1 {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#s8R2Left {
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(203, 203, 203)
+}
+
+#s8R2Right {
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(203, 203, 203);
+}
+#s8R2A{
+    text-decoration: none;
+    color: black;
+    opacity: .8;
+}
+#s8R2A:hover{
+    color: rgb(122, 6, 6);
+}
+#s8R2RInp{
+    border: none;
+    background: none;
+}
+#s8R2RInpDiv{
+    border-bottom:solid;
+    border-color: black;
+    border-width: 1px;
+}
+#s8R2RInpA{
+    text-decoration: none;
+    color: black;
+}
+#s8Row3C1{
+    padding-top: 50px;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.s8Row3H{
+    text-decoration: none;
+    
+}
+#s8Row3H{
+    font-weight: bold;
+}
+.s8Row3P{
+    text-decoration: none;
+    
+}
+#s8Row3{
+    align-items: start;
+}
+#s8Row3P{
+    line-height: .5;
+    font-size: 16px;
+}
+#s8Row3PDaniel{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+}
+#s8Row3C{
+    padding-top: 50px;
+    flex-direction: column;
+    align-items: center;
+}
+#s8Row4A,#s8Row3HNut:hover{
+    color: red;
+
+}
+#s8Row4{
+    padding: 40px;
+    text-align: center;
+}
+#s8Row4A{
+    text-decoration: none;
+}
+#s8Row4P{
+    opacity: .6;
+    font-size: 12px;
+}

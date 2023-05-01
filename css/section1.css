@@ -1,0 +1,73 @@
+@import url('https://fonts.cdnfonts.com/css/radiant');
+
+#section1 {
+    background-image: url(../images/session1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 460px;
+    padding-top: 15rem;
+
+}
+
+#s1Content {
+    margin-left: auto;
+    margin-right: auto;
+
+    height: 14rem;
+    width: 1140px;
+    background: rgba(248, 246, 246, 0.2);
+
+
+}
+
+#s1CLeft {
+    padding: 10px;
+    float: left;
+    width: 620px;
+    
+}
+
+
+#s1CRight {
+    float: left;
+    height: 14rem;
+    width: 500px;
+    align-items: center;
+    position: relative;
+}
+
+
+#s1CRB {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+    transform: translate(-50%, -50%);
+
+
+}
+
+#s1CRBut {
+    background: none;
+    box-shadow: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 50px;
+    padding-left: 50px;
+    border: solid 1px seashell;
+    color: #fff;
+    font-size: 14px;
+    margin-left: 0;
+}
+#s1CRBut:hover{
+    background: black;
+    cursor: pointer;
+}
+#s1H{
+    color: #fff;
+}
+#s1P{
+    color: white;
+}
